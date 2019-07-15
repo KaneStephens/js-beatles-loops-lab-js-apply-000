@@ -18,5 +18,8 @@ function johnLennonFacts(array){
   return array
 }
 
+do {
+  
+}
 
 
